@@ -1,0 +1,28 @@
+Domain Name csumb.edu
+Type A
+Results:
+
+3.33.150.239
+15.197.156.176
+
+Domain Name stonybrook.edu
+Type NS
+Results:
+
+mewho.stonybrook.edu.
+whoisthere.stonybrook.edu.
+nocnoc.stonybrook.edu.
+
+Domain Name wvutech.edu
+Type MX
+Results:
+
+1 ASPMX.L.GOOGLE.COM.
+10 ALT3.ASPMX.L.GOOGLE.COM.
+5 ALT2.ASPMX.L.GOOGLE.COM.
+5 ALT1.ASPMX.L.GOOGLE.COM.
+10 ALT4.ASPMX.L.GOOGLE.COM.
+
+Domain Name notarealdomain.mil
+Type NS
+Non-existant Domain Name
